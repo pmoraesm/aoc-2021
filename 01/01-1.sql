@@ -4,8 +4,7 @@ CREATE SCHEMA aoc21;
 
 CREATE TABLE aoc21.depths (
     id INT IDENTITY(1,1) NOT NULL,
-    measurement INT NULL,
-    variation INT NULL
+    measurement INT NULL
 );
 
 
